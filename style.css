@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+     background-color: #C8EFFC;
+}
+
+h1 {
+   text-align: center;
+   border: 1px solid black;
+   border-radius: 10px;
+} 
+
+footer p {
+    border: 2px dotted gray;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+nav {
+   border: 2px solid gray;
+}
+
+nav a {
+   font-size: 20px;
+   margin: 20px;
+   text-decoration: none;
+   color: black;
+   padding: 10px;
+}
+
+.production p{
+    border:3px solid blue;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+main{
+    padding: 5px;
+}
+
+
+
